@@ -11,7 +11,7 @@ Plugin will display on your Friends page in a widget under the search field curr
 
 Plugin will display on your Friends page in a widget under the search field currently on-line friends. Data is dynamically updated.
 
-Visit [CosyDale.com](http://cosydale.com) for more information.
+Visit [CosyDale.com](http://cosydale.com/my-plugin-buddypress-friends-on-line.html) for more information.
 
 Please rate this plugin. I will develop it further, but need some feedback.
 
@@ -24,7 +24,7 @@ Please rate this plugin. I will develop it further, but need some feedback.
 == Frequently Asked Questions ==
 
 None.
-Visit [CosyDale.com](http://cosydale.com) for more information.
+Visit [CosyDale.com](http://cosydale.com/my-plugin-buddypress-friends-on-line.html) for more information.
 
 == Changelog ==
 
