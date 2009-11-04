@@ -1,8 +1,8 @@
 === Plugin Name ===
 Contributors: slaFFik
 Tags: buddypress, friends, online, on-line
-Requires at least: BuddyPress 1.1
-Tested up to: BuddyPress 1.1.3
+Requires at least: WPMU 2.8.4 and BuddyPress 1.1
+Tested up to: WPMU 2.8.5.2 and BuddyPress pre1.1.3
 Stable tag: 0.1
 
 Plugin will display on your Friends page in a widget under the search field currently on-line friends. Data is dynamically updated.
