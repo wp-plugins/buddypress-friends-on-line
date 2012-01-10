@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: slaFFik
+Contributors: slaFFik, valant
 Tags: buddypress, friends, online, on-line
 Requires at least: WP 3.2 and BuddyPress 1.5
 Tested up to: WP 3.2.1 and BuddyPress 1.5.1
