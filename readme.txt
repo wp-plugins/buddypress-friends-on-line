@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== BuddyPress Friends On-Line ===
 Contributors: slaFFik, valant
 Tags: buddypress, friends, online, on-line
 Requires at least: WP 3.2 and BuddyPress 1.5
