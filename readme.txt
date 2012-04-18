@@ -5,11 +5,13 @@ Requires at least: WP 3.2 and BuddyPress 1.5
 Tested up to: WP 3.3.1 and BuddyPress 1.5.5
 Stable tag: 0.4.1
 
-Plugin will display on your Friends page a new tab called Online with a list of currently online friends. [Powered by WP-BP.com](http://wp-bp.com)
+Plugin will display on your Friends page a new tab called Online with a list of currently online friends. Powered by WP-BP.com
 
 == Description ==
 
 Plugin will display on your Friends page a new tab called Online with a list of currently online friends.
+
+[Powered by WP-BP.com](http://wp-bp.com)
 
 Visit [CosyDale.com](http://cosydale.com/my-plugin-buddypress-friends-on-line.html) for more information.
 
