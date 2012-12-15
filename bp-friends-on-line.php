@@ -4,7 +4,7 @@ Plugin Name: BuddyPress Friends On-line (FOL)
 Plugin URI: http://wp-bp.com/products#friends_article
 Description: Plugin will display on your Friends page a new tab called Online with a list of currently online friends. <a href="http://wp-bp.com">Powered by WP-BP.com</a>
 Author: WP-BP
-Version: 0.4.2
+Version: 0.4.3
 Author URI: http://wp-bp.com/
 */
 
@@ -13,7 +13,7 @@ function fol_menu(){
     global $bp;
 
     load_plugin_textdomain( 'fol', false, dirname( plugin_basename( __FILE__ ) ) . '/langs/' );
-    
+
     $friends_link = trailingslashit( $bp->loggedin_user->domain . bp_get_friends_slug() );
 
     $sub_nav = array(
@@ -29,7 +29,7 @@ function fol_menu(){
     bp_core_new_subnav_item($sub_nav);
 }
 
-// get the online friends list 
+// get the online friends list
 add_filter('bp_core_get_users', 'fol_get_online', 10, 2);
 function fol_get_online($data, $params){
     extract( $params, EXTR_SKIP );
