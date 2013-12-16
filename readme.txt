@@ -31,7 +31,7 @@ Visit [CosyDale.com](http://cosydale.com/my-plugin-buddypress-friends-on-line.ht
 == Changelog ==
 
 = 0.4.3.1 =
-* Added Spanish translation (props Andrew Kurtis)
+* Added Spanish translation (props Andrew Kurtis from WebHostingHub)
 
 = 0.4.3 =
 * Tested to work with WordPress 3.5 and BuddyPress 1.6.2
